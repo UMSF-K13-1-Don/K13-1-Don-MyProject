@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\bin\Debug\WinFormsAppNamme.exe.config
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\bin\Debug\WinFormsAppNamme.exe
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\bin\Debug\WinFormsAppNamme.pdb
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.Form1.resources
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.Properties.Resources.resources
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.exe
+C:\Users\User\Desktop\CryptSolutionV1.0.0\WinFormsAppNamme\obj\Debug\WinFormsAppNamme.pdb
